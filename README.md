@@ -4,7 +4,7 @@
 
 ```shell
 bundle install
-rake serve
+jekyll serve --watch
 ```
 
 ## Publish

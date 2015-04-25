@@ -1,4 +1,6 @@
-title: HanaHaus
+title: Quantics
+
+baseurl: /Quantics/
 
 assets:
   js_compressor: uglifier
