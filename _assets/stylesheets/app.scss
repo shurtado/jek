@@ -1,0 +1,11 @@
+// custom variables
+$brand-primary: red;
+
+// import vendor libs
+@import "font-awesome-sprockets";
+@import "font-awesome";
+@import "bootstrap";
+
+body {
+    // background: (url(asset_path("ketchup.jpg")));
+}

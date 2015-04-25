@@ -1,0 +1,12 @@
+title: HanaHaus
+
+assets:
+  js_compressor: uglifier
+  css_compressor: sass
+
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
